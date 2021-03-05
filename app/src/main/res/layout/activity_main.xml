@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/depositphotos_31123529_stock_illustration_soccer_field2"
     tools:context=".MainActivity">
 
     <ImageView
